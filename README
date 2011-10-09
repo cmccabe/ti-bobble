@@ -1,0 +1,19 @@
+Ti-Bobble was a project I did in high school. It is a clone of the classic
+Nintendo Game Bubble Bobble (tm) for the TI-85 line of graphing calculators.
+There are 21 levels of mayhem. There is also a save feature that will save the
+last level that you made it to.
+
+This program was written in Z80 assembly language. It was designed to run
+under Z-SHELL. Z-SHELL is basically a bootloader for the calculator, that
+handles loading your program into memory. It also has a file named ZSHELL.H
+which has some useful macros.
+
+When I originally developed this, I compiled under DOS with Borland Turbo
+Assembler.
+
+I hope you enjoy playing this on your TI calculator-- or at least taking a
+glance at some pretty gnarly assembly source code!
+Have fun.
+
+sincerely,
+Colin Patrick McCabe
